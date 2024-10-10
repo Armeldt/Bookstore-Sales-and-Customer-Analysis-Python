@@ -1,5 +1,8 @@
 # Bookstore-Sales-and-Customer-Analysis-Python
 
+![lapage_logo](https://github.com/Armeldt/Python-Global-Undernutrition-Analysis/blob/main/Ressources/logo.png?raw=true)
+
+
 ## Detailed Project Description:
 In this project, as part of my data analyst training, I worked with Lapage, a company that transitioned from a physical bookstore to an online sales platform. My mission was to analyze sales indicators and customer behavior to help the marketing team assess business performance and make strategic decisions.
 
