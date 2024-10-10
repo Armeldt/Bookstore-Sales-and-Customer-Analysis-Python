@@ -1,6 +1,6 @@
 # Bookstore-Sales-and-Customer-Analysis-Python
 
-![lapage_logo](https://github.com/Armeldt/Python-Global-Undernutrition-Analysis/blob/main/Ressources/logo.png?raw=true)
+![lapage_logo](https://github.com/Armeldt/Bookstore-Sales-and-Customer-Analysis-Python/blob/main/Ressources/logo.png?raw=true)
 
 
 ## Detailed Project Description:
