@@ -30,7 +30,8 @@ In this project, as part of my data analyst training, I worked with Lapage, a co
       
 4. Reporting and Presentation:
 
-    -  Present the results in a professional report or notebook, with detailed insights and recommendations based on the analyses.
+    -  Present the results in a notebook, with detailed insights and recommendations based on the analyses.
+   
     -  Create a presentation for the management team to highlight key findings and support future decision-making.
   
 By completing this project, I provided Lapage with valuable insights into their sales performance and customer behavior, helping them optimize their online strategy.
